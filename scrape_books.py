@@ -91,4 +91,4 @@ while True:
 # حفظ البيانات
 df = pd.DataFrame(all_books)
 df.to_excel("books_full_with_images.xlsx", index=False)
-print(f"تم استخراج {len(all_books)} كتاب بكل التفاصيل + الصور، وحفظهم في books_full_with_images.xlsx")
+print(f"{len(all_books)} books_full_with_images.xlsx")
