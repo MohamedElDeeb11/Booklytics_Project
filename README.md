@@ -1,4 +1,4 @@
-My First Data Engineering Journey 🚀
+My First Data Engineering Journey 
 
 I'm excited to share my first Web Scraping project built with Python!
 
